@@ -13,7 +13,7 @@ Individual project developed for Software Development II. Manages three business
 
 ## Tech Stack
 
-- Java (Swing + FlatLaf)
+- Java (Swing)
 - MySQL
 - JDBC (manual DAO pattern)
 - MVC architecture
